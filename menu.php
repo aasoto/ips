@@ -51,13 +51,13 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages/charts/chartjs.html">
+            <a class="nav-link" href="vmedico.php">
               <i class="menu-icon mdi mdi-ambulance"></i>
               <span class="menu-title">Medicos</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages/tables/basic-table.html">
+            <a class="nav-link" href="vcita.php">
               <i class="menu-icon mdi mdi-chart-line"></i>
               <span class="menu-title">Reporte de Citas</span>
             </a>
