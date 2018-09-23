@@ -16,4 +16,6 @@
 
     $datcitas = $obj->listado_citas();
     $inf_pacientes = $obj->consulta_pacientes();
+    $inf_medicos = $obj->consulta_medicos();
+
 ?>

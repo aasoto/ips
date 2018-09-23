@@ -40,5 +40,12 @@ include("conexion.php");
             $data = $this->selcot($sql);
             return $data;
         }
+
+        function consulta_medicos(){
+            $sql="SELECT area, nom1, nom2, apellido1, apellido2 FROM medicos;";
+            
+            $data = $this->selcot($sql);
+            return $data;
+        }
     }
 ?>
